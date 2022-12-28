@@ -1,8 +1,7 @@
-clear
+discover code
 qw
 burn my lunch
 read
-take a shower
 
 learn django
 add a new member
@@ -10,3 +9,13 @@ add a new member
 qwer
 qwe
 buy
+not empty
+show list
+
+make soup
+walk
+run the code
+18 string
+erty
+make money
+qwer
