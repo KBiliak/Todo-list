@@ -1,21 +1,4 @@
 discover code
 qw
 burn my lunch
-read
-
-learn django
-add a new member
- add a new number
-qwer
-qwe
-buy
-not empty
-show list
-
-make soup
-walk
-run the code
-18 string
-erty
-make money
-qwer
+qwert
