@@ -1,6 +1,4 @@
 discover code
-clean the programclean the program
 read a book
-
-walk with a dog
 go to the gym
+learn python

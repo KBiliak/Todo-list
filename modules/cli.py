@@ -73,4 +73,3 @@ while True:
     else:
         print("Command is not valid.")
 print("Bye")
-len

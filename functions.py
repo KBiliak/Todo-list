@@ -58,7 +58,7 @@ if __name__ == "__main__":
                 continue
 
 
-        elif user_action.startswith("complete"):
+        elif user_action.startswith("Complete"):
             try:
                 number = int(user_action[9:])
 
